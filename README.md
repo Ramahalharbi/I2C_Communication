@@ -4,8 +4,8 @@ Task 2 of the Internet of Things path:
 This project is a communitation between two arduino's to turn on/off led using a button.
 
 
-![Uploading Screenshot 1445-01-16 at 7.33.56 PM.png…]()
 
+<img width="1080" alt="Screenshot 1445-01-16 at 7 33 56 PM" src="https://github.com/Ramahalharbi/I2C_Communication/assets/139393175/0d7e4f0c-9ec0-4198-b8fd-9ef97518847f">
 
 
 
@@ -23,4 +23,12 @@ To set up I2C communication between two Arduinos, you will need to connect the t
 The sender (master) will initiate communication by sending a start signal on the SDA line. This will let the receiver (slave) know that communication is starting. The master will then send the address of the slave it wants to communicate with, followed by the data it wants to send.
 
 The slave will respond to the master's request and send an acknowledgment signal back to the master. The master will then continue sending data until it is finished, and then send a stop signal to end the communication.
+
+
+
+
+
+https://github.com/Ramahalharbi/I2C_Communication/assets/139393175/ef6b2bed-5334-494a-ab16-8190ca3ab0bb
+
+
 
