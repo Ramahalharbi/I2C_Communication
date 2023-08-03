@@ -4,14 +4,15 @@ Task 2 of the Internet of Things path:
 This project is a communitation between two arduino's to turn on/off led using a button.
 
 
-<img width="1080" alt="Screenshot 1445-01-16 at 4 43 27 PM" src="https://github.com/Ramahalharbi/I2C_Communication/assets/139393175/39efb15a-568d-4552-95b6-f6a226a3c2f9">
+![Uploading Screenshot 1445-01-16 at 7.33.56 PM.png…]()
 
 
 
 
 
 
-#I2C Serial Communications
+
+# I2C Serial Communications
 
 I2C (Inter-Integrated Circuit) is a serial communication protocol that allows multiple devices to communicate with each other using just two wires. In an I2C communication setup, one device acts as the "master" and the other device(s) act as "slaves".
 
