@@ -1,4 +1,4 @@
-# I2C_Communication
+# two_arduino_Communication
 Task 2 of the Internet of Things path:
 
 This project is a communitation between two arduino's to turn on/off led using a button.
@@ -12,7 +12,7 @@ This project is a communitation between two arduino's to turn on/off led using a
 
 
 
-# I2C Serial Communications
+# two arduino Serial Communications
 
 I2C (Inter-Integrated Circuit) is a serial communication protocol that allows multiple devices to communicate with each other using just two wires. In an I2C communication setup, one device acts as the "master" and the other device(s) act as "slaves".
 
